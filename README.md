@@ -11,6 +11,7 @@
     else {
         printf("nCr(%d, %d) = %d\n", n, r, nCr(n,          r));
     }
+    printf("\n25331A05I6");
     return 0;
 } 
 int nCr(int n, int r) {
